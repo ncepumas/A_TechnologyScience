@@ -1,6 +1,6 @@
 # instruction
 The repository of TechnologyScience
-## Example
-### --project
-#### ----code
-#### ----data
+## Project Example
+### project name
+### 	code
+### 	data
